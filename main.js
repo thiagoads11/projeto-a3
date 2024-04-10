@@ -1,4 +1,6 @@
+
 let participantes = [
+
   {
     nome: "Diego Fernandes",
     email: "diego@gmail.com",
