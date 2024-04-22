@@ -1,6 +1,5 @@
 
 let participantes = [
-
   {
     nome: "Diego Fernandes",
     email: "diego@gmail.com",
@@ -61,6 +60,7 @@ let participantes = [
     dataInscricao: new Date(2023, 5, 10, 19, 23),
     dataCheckIn: new Date(2023, 5, 11, 20, 20)
   }
+ 
 ];
 
 const criarNovoParticipante = (participante) => {
