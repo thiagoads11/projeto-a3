@@ -1,4 +1,3 @@
-
 let participantes = [
   {
     nome: "Diego Fernandes",
