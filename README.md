@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto A3. </h1>
 
 <p align="center">
-Projeto feito em equipe, para realização de cadastro de usuários.
+Projeto foi feito em equipe, para realização de cadastro de participantes.
 </p>
 
 <p align="center">
