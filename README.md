@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Day.js para lidar com datas
 - Git e Github
 
+
 ## Teste
 
 Ferramenta utilizada para realização dos testes:
