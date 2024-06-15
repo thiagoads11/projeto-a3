@@ -32,6 +32,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Day.js para lidar com datas
 - Git e Github
 
+## Teste
+
+Ferramenta utilizada para realização dos testes:
+
+- GTMETRIX
+
+ <img alt="teste do projeto" src=".github/WhatsApp Image 2024-06-10 at 17.01.50.jpeg" width="100%">
+
 ## 💻 Projeto
   Esse projeto foi feito por nossa equipe para cadastro de participantes online.
 
