@@ -32,6 +32,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Day.js para lidar com datas
 - Git e Github
 
+Ferramentas para realização dos testes:
+
+-GTMETRIX 
+
 ## 💻 Projeto
   Esse projeto foi feito por nossa equipe para cadastro de participantes online.
 
